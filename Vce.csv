@@ -1,4 +1,4 @@
-#Vce (V);Error Vce (V);IC (mA);Error IC (mA);Vce1 (V);Error Vce1 (V);IC1 (mA);Error IC1 (mA);Vce2 (V);Error Vce2 (V);IC2 (mA);Error IC2 (mA)
+Vce (V);Error Vce (V);IC (mA);Error IC (mA);Vce1 (V);Error Vce1 (V);IC1 (mA);Error IC1 (mA);Vce2 (V);Error Vce2 (V);IC2 (mA);Error IC2 (mA)
 0.045;0.001;0.036;0.002;0.0442;0.0003;0.037;0.001;0.0359;0.0003;0.045;0.001
 0.066;0.001;0.104;0.002;0.0640;0.0004;0.107;0.001;0.0499;0.0003;0.119;0.001
 0.081;0.001;0.174;0.003;0.0783;0.0004;0.180;0.002;0.0602;0.0004;0.195;0.002
